@@ -1,3 +1,7 @@
+v1.1.5 (2023-01-20)
+-------------------------
+ * Update metadata
+
 v1.1.4 (2022-11-28)
 -------------------------
  * Bump required go version to 1.18
@@ -281,4 +285,3 @@ v1.0.18
 v1.0.17
 ----------
  * Fix maybe strip extension, thanks @vlastv
-
